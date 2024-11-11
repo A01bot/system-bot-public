@@ -238,7 +238,7 @@ await interaction.update({embeds : [embed] , components : [btns]})
   }
 })
 
-   client17.login(token)
+   client17.login(MTMwNTYxNDc1NzUxNjAxNzY5NA.GJrLcI._GV0ulXQFq0PcFZigucXe1SVXpBJ4FqBae8sQo)
    .catch(async(err) => {
     const filtered = system.filter(bo => bo != data)
 			await tokens.set(`system` , filtered)
